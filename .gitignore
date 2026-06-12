@@ -21,6 +21,9 @@ test/
 *.pdsprj
 *.workspace
 
+# Ngoại lệ: Cho phép đẩy file mạch mô phỏng lên
+!Simulation_Circuit.pdsprj
+
 # Loại bỏ các file nhị phân và tài liệu không liên quan
 *.msi
 *.pdf
